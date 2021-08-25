@@ -4,5 +4,6 @@ module.exports = {
     entry: [
         'index.md',
         'index2.md',
+        'index3.md',
     ]
 }
