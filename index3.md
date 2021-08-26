@@ -75,4 +75,4 @@
 
 - 市制、町村制の施行（明治時代）[^3]
 
-[^3]https://www.city.yokosuka.kanagawa.jp/0520/emaki/meiji/meiji_data6.html
+[^3]:https://www.city.yokosuka.kanagawa.jp/0520/emaki/meiji/meiji_data6.html
