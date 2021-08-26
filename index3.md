@@ -73,4 +73,6 @@
 
 なお、三浦半島におけるこの時期の町村位置を確認するには、横須賀市による以下のページをご覧ください。上記リスト作成にあたっても、大変参考にさせていただきました。
 
-[市制、町村制の施行（明治時代）](https://www.city.yokosuka.kanagawa.jp/0520/emaki/meiji/meiji_data6.html)
+- 市制、町村制の施行（明治時代）[^3]
+
+[^3]https://www.city.yokosuka.kanagawa.jp/0520/emaki/meiji/meiji_data6.html
