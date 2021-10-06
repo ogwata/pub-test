@@ -1,0 +1,43 @@
+@charset "UTF-8";
+@font-face {
+/*DNP 秀英初号明朝 Std*/
+font-family: dnp-shuei-shogomincho-std, sans-serif;
+font-style: normal;
+font-weight: 700;
+}
+@font-face {
+//DNP 秀英明朝 Pr6N
+font-family: dnp-shuei-mincho-pr6n, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+@font-face {
+/*DNP 秀英角ゴシック金 Std*/
+font-family: dnp-shuei-gothic-kin-std, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+@font-face {
+/*DNP 秀英丸ゴシック Std*/
+font-family: dnp-shuei-mgothic-std, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+html {
+/*DNP 秀英明朝 Pr6N*/
+font-family: dnp-shuei-mincho-pr6n, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+h1 {
+  font-family: dnp-shuei-shogomincho-std, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-feature-settings: "palt";
+}
+h2 {
+  font-family: dnp-shuei-gothic-kin-std, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-feature-settings: "palt";
+}
