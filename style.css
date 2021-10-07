@@ -1,43 +1,83 @@
 @charset "UTF-8";
 @font-face {
-/*DNP 秀英初号明朝 Std*/
-font-family: dnp-shuei-shogomincho-std, sans-serif;
+/* Garamond Premier Pro Regular */
+ont-family: garamond-premier-pro, serif;
+font-weight: 400;
 font-style: normal;
+}
+@font-face {
+/* Garamond Premier Pro Italic */
+font-family: garamond-premier-pro, serif;
+font-weight: 400;
+font-style: italic;
+}
+@font-face {
+/* Garamond Premier Pro Bold */
+font-family: garamond-premier-pro, serif;
 font-weight: 700;
+font-style: normal;
 }
 @font-face {
-//DNP 秀英明朝 Pr6N
-font-family: dnp-shuei-mincho-pr6n, sans-serif;
-font-style: normal;
-font-weight: 400;
+/* Garamond Premier Pro Bold Italic */
+ffont-family: garamond-premier-pro, serif;
+font-weight: 700;
+font-style: italic;
 }
 @font-face {
-/*DNP 秀英角ゴシック金 Std*/
-font-family: dnp-shuei-gothic-kin-std, sans-serif;
+/*Garamond Premier Pro Bold Medium */
+font-family: garamond-premier-pro, serif;
+font-weight: 500;
 font-style: normal;
-font-weight: 400;
 }
 @font-face {
-/*DNP 秀英丸ゴシック Std*/
-font-family: dnp-shuei-mgothic-std, sans-serif;
+/* Garamond Premier Pro Bold Medium Italic */
+font-family: garamond-premier-pro, serif;
+font-weight: 500;
+font-style: italic;
+}
+@font-face {
+/* Garamond Premier Pro Bold Semibold */
+font-family: garamond-premier-pro, serif;
+font-weight: 600;
 font-style: normal;
-font-weight: 400;
+}
+@font-face {
+/* Garamond Premier Pro Bold Semibold Italic */
+font-family: garamond-premier-pro, serif;
+font-weight: 600;
+font-style: italic;
+}
+@font-face {
+/* Garamond Premier Pro Bold Bold */
+ffont-family: garamond-premier-pro, serif;
+font-weight: 700;
+font-style: italic;
+}
+@font-face {
+/* Garamond Premier Pro Bold Italic */
+font-family: garamond-premier-pro, serif;
+font-weight: 700;
+font-style: normal;
+}
+@font-face {
+/* Garamond Premier Pro Bold Bold Italic */
+font-family: garamond-premier-pro, serif;
+font-weight: 700;
+font-style: italic;
 }
 html {
-/*DNP 秀英明朝 Pr6N*/
-font-family: dnp-shuei-mincho-pr6n, sans-serif;
-font-style: normal;
+/* Garamond Premier Pro Regular */
+ont-family: garamond-premier-pro, serif;
 font-weight: 400;
+font-style: normal;
 }
 h1 {
-  font-family: dnp-shuei-shogomincho-std, sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-feature-settings: "palt";
+/* Garamond Premier Pro Bold Italic */
+font-family: garamond-premier-pro, serif;
+font-weight: 700;
 }
 h2 {
-  font-family: dnp-shuei-gothic-kin-std, sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  font-feature-settings: "palt";
+font-family: garamond-premier-pro, serif;
+font-weight: 600;
+font-style: normal;
 }
