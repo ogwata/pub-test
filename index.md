@@ -1,8 +1,3 @@
-<head>
-<style>
-  @import url("https://use.typekit.net/kqu8fbj.css");
-</style>
-</head>
 
 # Wood Engraving
 
