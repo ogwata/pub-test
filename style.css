@@ -80,6 +80,9 @@ h1 {
 /* Garamond Premier Pro Bold Italic */
 font-family: garamond-premier-pro, serif;
 font-weight: 700;
+float-reference: page;
+float: top;
+
 }
 h2 {
 font-family: garamond-premier-pro, serif;
