@@ -312,10 +312,12 @@ nav li strong {
 
 #colophon table {
   border-spacing: 0;
+  border-collapse: collapse;
 }
 
 #colophon :is(th, td) {
   padding: 0;
+  border: 1px solid black;
 }
 
 #colophon th:first-child {
