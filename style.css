@@ -3,6 +3,7 @@
 
 :root {
   font-family: garamond-premier-pro, serif;
+  column-count: 2;
 }
 @font-face {
 /* Garamond Premier Pro Regular */
